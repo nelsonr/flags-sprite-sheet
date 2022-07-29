@@ -1,0 +1,6 @@
+{
+    "imagesInputPath": "./assets/flags",
+    "imagesOutputPath": "./build/flags_codes",
+    "buildPath": "./build",
+    "fileName": "flags_sprite"
+}

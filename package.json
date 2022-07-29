@@ -1,0 +1,19 @@
+{
+  "name": "country-flags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "build": "node .",
+    "preview": "node scripts/preview.js"
+  },
+  "author": "Nelson Rodrigues <nelson.rodrigues@outsystems.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "http-static": "^0.1.1",
+    "open": "^8.4.0",
+    "outdent": "^0.8.0",
+    "spritesmith": "^3.4.0"
+  }
+}
