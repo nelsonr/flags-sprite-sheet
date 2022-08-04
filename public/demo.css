@@ -41,7 +41,7 @@ section {
 }
 
 /* Country with no code */
-[class$="flag-"]::after {
+[class$="flag--"]::after {
     border-radius: 50%;
     background: transparent;
     border: 2px dashed;

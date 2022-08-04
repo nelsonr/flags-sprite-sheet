@@ -30,7 +30,7 @@ function renderCountries(countries) {
     for (const country of countries) {
         html += `
             <div class="grid-item">
-                <div class="flag flag-${country.code}"></div>
+                <div class="flag flag--${country.code}"></div>
                 <legend>${country.name}</legend>
             </div>
         `;

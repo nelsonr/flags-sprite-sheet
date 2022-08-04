@@ -85,7 +85,7 @@ function createStyleSheet(coords, spriteSize, backgroundImage) {
         const { x, y } = coords[key];
 
         css += outdent`
-            .flag-${countryCode}:after {
+            .flag--${countryCode}:after {
                 background-position: -${x}px -${y}px;
             }
 
